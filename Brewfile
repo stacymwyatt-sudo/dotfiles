@@ -35,9 +35,6 @@ brew "git", comment: "Version control"
 # GitHub CLI — interact with GitHub from the terminal
 brew "gh", comment: "GitHub command line tool"
 
-# Playwright — browser automation and testing
-brew "playwright", comment: "Browser automation testing framework"
-
 # -------------------------------------------------------
 # DEVELOPER APPS
 # -------------------------------------------------------
@@ -108,5 +105,4 @@ cask "openscad", comment: "Code-based 3D modeling"
 #   Open Adobe Creative Cloud (installed above) → Find Illustrator → Install
 #
 # Printers:
-#   System Settings → Printers & Scanners → Add Epson + Canon# Distributed revision control system
-brew "git"
+#   System Settings → Printers & Scanners → Add Epson + Canon
