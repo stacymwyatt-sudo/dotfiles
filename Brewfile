@@ -17,12 +17,6 @@
 # - Printers: System Settings → Printers & Scanners (Epson + Canon)
 
 # -------------------------------------------------------
-# TAPS (additional Homebrew repositories)
-# -------------------------------------------------------
-tap "homebrew/bundle"
-tap "homebrew/cask"
-
-# -------------------------------------------------------
 # DEVELOPER TOOLS
 # -------------------------------------------------------
 
